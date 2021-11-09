@@ -25,7 +25,7 @@ yarn install
 ```
 expo start
 ```
-6. Copy the URL given in the command line following the message "Developer tools running on `url` ".
+6. Copy the URL given in the command line in the message "Developer tools running on `url` ".
 7. Paste the url into your web browser on the computer and then click on "run in web browser" on the left panel.
 8. This should open up the web application.
 
